@@ -1,7 +1,7 @@
 # Mistryl
 Actually modern theme for Etterna
 
-#Doesn't work yet.
+## Doesn't work yet.
 
 WIP, will probably progress slowly. Eventually intended to be a fully featured rewrite of the frontend UI as much as possible.
 
